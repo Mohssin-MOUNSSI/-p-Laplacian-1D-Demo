@@ -1,7 +1,7 @@
 # Démonstration du p-Laplacien en 1D
 
 **Auteur :** Mohssin MOUNSSI  
-**Formation doctorale :** Module M2 — Mon écosystème numérique
+**Formation doctorale :** Module M5 — Mon écosystème numérique
 
 ## Objectif
 
